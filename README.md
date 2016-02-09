@@ -10,7 +10,7 @@ Changed up a file according to a set of instructions given by the professor.
 
 ## What I Learned from This
 
-I learned how to work my way around github and the desktop app.
+I learned how to work my way around github and the desktop app, learned how to clone a repository.
 
 ## Honor Pledge
 
